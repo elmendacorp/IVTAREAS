@@ -16,3 +16,7 @@ Crear un benchmark de velocidad de entrada salida y comprobar la diferencia entr
 
 `qemu-system-x86_64 -hda /media/Backup/Isos/discovirtual.img`
 
+## Ejercicio 4
+Crear una máquina virtual Linux con 512 megas de RAM y entorno gráfico LXDE a la que se pueda acceder mediante VNC y ssh.
+
+##Ejercicio 5

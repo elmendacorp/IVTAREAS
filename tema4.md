@@ -59,6 +59,8 @@ Tras crear la cuenta de Azure, instalar las herramientas de línea de órdenes (
 Se hace todo desde windows con un ejecutable de siguiente, siguiente.
 COn esto añadimos la cuenta
 
+[](http://www.youtube.com/watch?v=yjtIlguU918)
+
 `azure account download`
 ## Ejercicio 9
 
