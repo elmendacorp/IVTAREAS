@@ -24,3 +24,4 @@ Crear una máquina virtual Linux con 512 megas de RAM y entorno gráfico LXDE a 
 Lo mas complicado de este ejercicio es alojar 512MB de ram para la máquina, el resto se puede instalar con apt-get.
 
 ##Ejercicio 5
+Tuve serios problemas con la instalacion de azure utils en el sistema de ubuntu, aun siguiendo un tutorial e instalarlo con rubi gems no me dejaba ni importar la cuenta, siempre me tiraba un error sobre las librerias, sin embargo al comprobarlo lo tenia todo tal y como se indicaba en el tutorial.
